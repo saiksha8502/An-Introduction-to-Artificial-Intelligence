@@ -1,0 +1,13 @@
+1. 8
+2. 10
+3. ADBGCFHJEK
+4. Atomic
+5.BFS: Queue, DFS: Stack
+6. Beam Search
+7. Time: O(bm) Space: O(bm)
+8. * It is complete
+   * It will always expand more nodes than standard IDS
+9.  Breadth First Search
+    Bidirectional Breadth First Search
+    Iterative Deepening Depth First Search
+10. ABDEG
